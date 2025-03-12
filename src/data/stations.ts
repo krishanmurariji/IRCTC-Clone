@@ -1,0 +1,23 @@
+export const stations = {
+    "Andhra Pradesh": ["Visakhapatnam", "Vijayawada", "Tirupati", "Guntur", "Nellore", "Kakinada", "Anantapur", "Kadapa", "Rajahmundry", "Srikakulam"],
+    "Bihar": ["Patna", "Gaya", "Muzaffarpur", "Bhagalpur", "Darbhanga", "Purnia", "Begusarai", "Arrah", "Chapra", "Katihar"],
+    "Delhi": ["New Delhi", "Delhi Cantt", "Hazrat Nizamuddin", "Delhi Sarai Rohilla", "Anand Vihar", "Shakur Basti", "Okhla", "Tilak Bridge"],
+    "Gujarat": ["Ahmedabad", "Surat", "Vadodara", "Rajkot", "Bhavnagar", "Gandhinagar", "Jamnagar", "Junagadh", "Anand", "Bharuch"],
+    "Karnataka": ["Bangalore", "Mysore", "Hubli", "Mangalore", "Belgaum", "Gulbarga", "Davanagere", "Tumkur", "Bellary", "Bijapur"],
+    "Kerala": ["Thiruvananthapuram", "Ernakulam", "Kozhikode", "Thrissur", "Kollam", "Kottayam", "Alappuzha", "Palakkad", "Kannur", "Pathanamthitta"],
+    "Maharashtra": ["Mumbai CST", "Pune", "Nagpur", "Nashik", "Aurangabad", "Kolhapur", "Solapur", "Amravati", "Thane", "Latur"],
+    "Tamil Nadu": ["Chennai Central", "Coimbatore", "Madurai", "Tiruchirappalli", "Salem", "Vellore", "Erode", "Tirunelveli", "Dindigul", "Thanjavur"],
+    "Uttar Pradesh": ["Lucknow", "Kanpur", "Varanasi", "Agra", "Allahabad", "Gorakhpur", "Meerut", "Jhansi", "Bareilly", "Moradabad"],
+    "West Bengal": ["Howrah", "Sealdah", "Kharagpur", "Siliguri", "Asansol", "Durgapur", "Bardhaman", "Malda Town", "Jalpaiguri", "Haldia"],
+    "Rajasthan": ["Jaipur", "Jodhpur", "Udaipur", "Kota", "Ajmer", "Bikaner", "Alwar", "Bharatpur", "Sikar", "Chittorgarh"],
+    "Madhya Pradesh": ["Bhopal", "Indore", "Jabalpur", "Gwalior", "Ujjain", "Satna", "Ratlam", "Sagar", "Chhindwara", "Rewa"],
+    "Punjab": ["Amritsar", "Ludhiana", "Jalandhar", "Patiala", "Bathinda", "Pathankot", "Mohali", "Firozpur", "Hoshiarpur", "Sangrur"],
+    "Haryana": ["Chandigarh", "Ambala", "Rohtak", "Hisar", "Panipat", "Karnal", "Sirsa", "Yamunanagar", "Bhiwani", "Rewari"],
+    "Jharkhand": ["Ranchi", "Jamshedpur", "Dhanbad", "Bokaro", "Hazaribagh", "Giridih", "Deoghar", "Ramgarh", "Chaibasa", "Palamu"],
+    "Odisha": ["Bhubaneswar", "Cuttack", "Rourkela", "Sambalpur", "Berhampur", "Balasore", "Puri", "Jharsuguda", "Angul", "Koraput"],
+    "Assam": ["Guwahati", "Dibrugarh", "Silchar", "Tinsukia", "Jorhat", "Tezpur", "Nagaon", "Bongaigaon", "Goalpara", "Sivasagar"],
+    "Chhattisgarh": ["Raipur", "Bilaspur", "Durg", "Korba", "Ambikapur", "Jagdalpur", "Rajnandgaon", "Raigarh", "Bhilai", "Mahasamund"],
+    "Uttarakhand": ["Dehradun", "Haridwar", "Rishikesh", "Haldwani", "Roorkee", "Kashipur", "Ramnagar", "Nainital", "Pithoragarh", "Almora"],
+    "Himachal Pradesh": ["Shimla", "Solan", "Mandi", "Kullu", "Dharamshala", "Chamba", "Una",  "Palampur", "Hamirpur"],
+    "Jammu and Kashmir": ["Jammu", "Srinagar", "Udhampur", "Anantnag", "Baramulla", "Kathua", "Poonch", "Kupwara", "Doda", "Kargil"]
+};

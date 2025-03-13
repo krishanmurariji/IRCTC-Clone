@@ -37,8 +37,6 @@ I enjoy coding, writing poetry, and watching movies.
 -   🌱 I'm currently learning:
     -   Data Structures and Algorithms on [LeetCode](https://leetcode.com/Krishanmurariji/)
     -   Tools and technologies from the JavaScript React ecosystem
--   📫 How to reach me: [krishanmurari.gjimt@gmail.com](Mrkrishanmurariji@gmail.com)
--   📝 [Resume](https://www.canva.com/design/DAF6HR5tWPE/vLMhZ4ROeu09TRkQvOCACA/view?utm_content=DAF6HR5tWPE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 [![GitHub](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg)](https://github.com/krishanmurariji)
 [![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/Krishanmurariji/)

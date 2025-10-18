@@ -1,25 +1,26 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './components/Header';
-import TrainSearch from './components/TrainSearch';
+import Footer from './components/Footer';
+import Home from './components/Home';
 import PNRStatus from './components/PNRStatus';
-import TrainList from './components/TrainList'; // Ensure this is correctly imported
-import ImageSlider from "./components/ImageSlider"; // Correct path
+import TrainList from './components/TrainList';
+import TrainSearch from './components/TrainSearch';
+
 function App() {
   return (
     <Router>
-      <div className="min-h-screen bg-gray-100">
+      <div className="flex flex-col min-h-screen">
         <Header />
-        <main className="container mx-auto py-8">
-           <ImageSlider />
+        <main className="flex-grow">
           <Routes>
-            <Route path="/" element={<TrainSearch />} />
-            
+            <Route path="/" element={<Home />} />
             <Route path="/pnr-status" element={<PNRStatus />} />
             <Route path="/trains" element={<TrainList />} />
+            <Route path="/book" element={<TrainSearch />} />
           </Routes>
         </main>
-        
+        <Footer />
       </div>
     </Router>
   );
